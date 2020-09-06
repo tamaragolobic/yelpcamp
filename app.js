@@ -1,6 +1,5 @@
 let Campground = require("./models/campgrounds"),
     Comment    = require("./models/comment"),
-    //User       = require("./models/user"),
     bodyParser = require("body-parser"),
     mongoose   = require("mongoose"),
     express    = require("express"),
